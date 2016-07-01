@@ -267,9 +267,10 @@ a.button1:hover {
 .new-number {
    width: 20%;
   float: left;
+  font-size:0.7em;
   background: #ae9a64;
-  padding: 4em 0;
-  
+  padding: 5em 0;
+
   }
 .new-number h4 {
   font-size: 3em;
