@@ -265,21 +265,23 @@ a.button1:hover {
   padding: 4em 0;
 }
 .new-number {
-   width: 20%;
+   width: 10%;
+
   float: left;
   font-size:1.66em;
-  background: #ae9a64;
-  padding: 1.59em 0;
-
+  
+  padding: 0em 1 0 4em;
+ 
   }
 .new-number h4 {
   font-size: 3em;
   color: #fff;
+     
 }
 .new-text {
   float: left;
   width: 80%;
-    padding: 1.66em 1em;
+   padding: 2.66em 1em;
   background: #1d1d1b;
 }
 .new-text h5 {
