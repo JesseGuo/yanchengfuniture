@@ -38,6 +38,7 @@ body{
 	margin:0 0; 
     background: url('../images/bg.png');
 	font-family: 'OpenSans-Regular';
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
 }
 .main-header {
   background-color: #fff;
